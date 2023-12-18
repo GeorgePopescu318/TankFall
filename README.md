@@ -44,6 +44,6 @@ An intuitive LCD menu system allows players to customize their experience. Adjus
 - `TankFall/Tankfall.ino`: The Arduino sketch containing the game code.
 - `circuit.jpeg`: Visual representation of the hardware setup.
 
-<img src="circuit.jpeg" width="450" title="Reference photo 3" > <br>
+<img src="Circuit.jpeg" width="450" title="Reference photo 3" > <br>
 
 [__Link to the video__](https://drive.google.com/file/d/10cK83LuEztagm2rPpJoMHBiCQfQcwnIJ/view?usp=sharing)
